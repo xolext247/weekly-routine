@@ -1,0 +1,6 @@
+{
+  "name": "Weekly Routine Planner",
+  "description": "Create, color-code, and manage your weekly schedule and routine, then export it as a PNG image for easy visual time blocking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
